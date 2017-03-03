@@ -1,6 +1,6 @@
-Week 8: Assignment
+# Week 8: Assignment
 
-Due: March 15
+## Due: March 15
 
 Choose one of the javascript libraries below. You'll want to
 spend some time exploring the API or documentation. Search
@@ -15,7 +15,7 @@ showcases a facet of your library.
 This is meant to be a creative, self-directed mini project. We
 are expecting you to spend one or two hours on it.
 
-Possible Libraries:
+#### Possible Libraries:
 - Mapping
 	- Turf
 	- Mapbox Studio
