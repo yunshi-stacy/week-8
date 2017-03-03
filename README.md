@@ -13,23 +13,23 @@ the library, or you can build a new visualization or demo that
 showcases a facet of your library. 
 
 This is meant to be a creative, self-directed mini project. We
-are expecting you to spend one or two hours on it.
+are expecting you to spend one or two hours on it. 
 
 #### Possible Libraries:
 - Mapping
-	- Turf
-	- Mapbox Studio
-	- MapboxGL
-	- Leaflet Cluster
+	- [Turf](http://turfjs.org/)
+	- [Mapbox Studio](https://www.mapbox.com/mapbox.js/api/v3.0.1/)
+	- [MapboxGL](https://www.mapbox.com/mapbox-gl-js/api/)
+	- [Leaflet Cluster](https://github.com/Leaflet/Leaflet.markercluster)
 - Design and Layout
-	- Selectize
-	- Chroma.js
-	- Isotope
-	- HTML Slider
+	- [Selectize](http://selectize.github.io/selectize.js/)
+	- [Chroma.js](http://gka.github.io/chroma.js/)
+	- [Isotope](http://isotope.metafizzy.co/)
+	- [HTML Slider](http://codepen.io/lknarf/pen/KWzRed)
 - Charts
-	- http://c3js.org/
-	- https://gionkunz.github.io/chartist-js/
-	- http://www.chartjs.org/
+	- [c3js](http://c3js.org/)
+	- [Chartist](https://gionkunz.github.io/chartist-js/)
+	- [ChartJS](http://www.chartjs.org/)
 - Utility
-	- Simple Statistics
+	- [Simple Statistics](http://simplestatistics.org/)
 
