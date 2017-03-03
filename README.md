@@ -4,7 +4,7 @@
 
 Choose one of the javascript libraries below. You'll want to
 spend some time exploring the API or documentation. Search
-online for example of it in use. Try it out - we want you to find
+online for example of it in use. Try it out—we want you to find
 an exciting or useful feature. 
 
 Your task is to make something using the library of your choice.
